@@ -1,0 +1,8 @@
+.env
+.work
+.DS_Store
+poetry.lock
+.ipynb_checkpoints
+__pycache__/
+*.json
+*.arrow
